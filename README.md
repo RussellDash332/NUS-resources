@@ -9,7 +9,10 @@ Collection of my NUS module-related Github repositories
 [![GET1030](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=GET1030)](https://github.com/RussellDash332/GET1030)
 [![CS3243](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=CS3243-Projects)](https://github.com/RussellDash332/CS3243-Projects)
 [![CS2102](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=cs2102-team100)](https://github.com/RussellDash332/cs2102-team100)
+[![CS2103](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=Stashy)](https://github.com/RussellDash332/Stashy)
+[![CS2103](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=FypManager)](https://github.com/RussellDash332/FypManager)
+[![ST4248](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=ST4248-Project)](https://github.com/RussellDash332/ST4248-Project)
+[![DSA3102](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=DSA3102)](https://github.com/RussellDash332/DSA3102)
 <!--
-[![CS2103](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=ip)](https://github.com/RussellDash332/ip)
 [![ST2132](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=ST2132-bot)](https://github.com/RussellDash332/ST2132-bot)
 -->
