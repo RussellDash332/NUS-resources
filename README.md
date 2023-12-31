@@ -13,7 +13,7 @@ Collection of my NUS module-related Github repositories
 [![CS3243](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=CS3243-Projects)](https://github.com/RussellDash332/CS3243-Projects)
 [![ST4248](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=ST4248-Project)](https://github.com/RussellDash332/ST4248-Project)
 [![DSA3102](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=DSA3102)](https://github.com/RussellDash332/DSA3102)
-[![DSA4212](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=DSA4212)](https://github.com/RussellDash332/DSA3102)
+[![DSA4212](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=DSA4212)](https://github.com/RussellDash332/DSA4212)
 <!--
 [![ST2132](https://github-readme-stats.vercel.app/api/pin/?theme=omni&username=RussellDash332&repo=ST2132-bot)](https://github.com/RussellDash332/ST2132-bot)
 -->
